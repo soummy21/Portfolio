@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Soumya Thakur | Game Developer</title>
+    <link>https://soummy21.github.io/portfolio/tags/</link>
+    <description>Recent content in Tags on Soumya Thakur | Game Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://soummy21.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C#</title>
+      <link>https://soummy21.github.io/portfolio/tags/c#/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soummy21.github.io/portfolio/tags/c#/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Patterns</title>
+      <link>https://soummy21.github.io/portfolio/tags/design-patterns/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soummy21.github.io/portfolio/tags/design-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Design</title>
+      <link>https://soummy21.github.io/portfolio/tags/game-design/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soummy21.github.io/portfolio/tags/game-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>https://soummy21.github.io/portfolio/tags/unity/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://soummy21.github.io/portfolio/tags/unity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
