@@ -487,9 +487,10 @@ header .navbar {
     cursor: alias;
 }
 
-#achievements .card h5 {
+#achievements .card h4 {
     color: var(--text-color) !important;
     opacity: 0.9;
+    text-align: center;
 }
 
 #achievements .card:hover {
